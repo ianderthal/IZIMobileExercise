@@ -1,0 +1,11 @@
+
+// this can be generated automatically by nmp?
+{
+	"name":"exercise",
+	"main":"server.js",
+	"dependencies":{
+		"express": "latest",
+		"mongoose": "latest",
+	}
+
+}

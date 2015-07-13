@@ -1,0 +1,1 @@
+console.log('Node is installed! You have successfully installed Node. Pat yourself on the back. And get back to work.');
